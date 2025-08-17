@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\assets\\noteorimageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|solutionrelative:assets\\noteorimageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\assets\\glbloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|solutionrelative:assets\\glbloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\assets\\dracomeshloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|solutionrelative:assets\\dracomeshloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\assets\\vrcontentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|solutionrelative:assets\\vrcontentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\assets\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|solutionrelative:assets\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Scripts\\Spec\\GLTFMesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Scripts\\Spec\\GLTFMesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Plugins\\draco\\GLTFUtilityDracoLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Plugins\\draco\\GLTFUtilityDracoLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\assets\\vrtemplateassets\\scripts\\webxrimmersivegrabinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FAD29B-DB2A-0871-788B-EB4D4AC764CC}|Assembly-CSharp.csproj|solutionrelative:assets\\vrtemplateassets\\scripts\\webxrimmersivegrabinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.de-panther.webxr@fab01af98209\\Runtime\\Scripts\\WebXRController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.de-panther.webxr@fab01af98209\\Runtime\\Scripts\\WebXRController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DracoMeshLoader.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\DracoMeshLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\DracoMeshLoader.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\DracoMeshLoader.cs",
+              "RelativeToolTip": "Assets\\DracoMeshLoader.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:54:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GLTFMesh.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Scripts\\Spec\\GLTFMesh.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Scripts\\Spec\\GLTFMesh.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Scripts\\Spec\\GLTFMesh.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Scripts\\Spec\\GLTFMesh.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAADwv40BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:46:08.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GLTFUtilityDracoLoader.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Plugins\\draco\\GLTFUtilityDracoLoader.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Plugins\\draco\\GLTFUtilityDracoLoader.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Plugins\\draco\\GLTFUtilityDracoLoader.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.siccity.gltfutility@dfdc50830c20\\Plugins\\draco\\GLTFUtilityDracoLoader.cs",
+              "ViewState": "AQIAALIBAAAAAAAAAADwv8YBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:39:51.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VRContentLoader.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\VRContentLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\VRContentLoader.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\VRContentLoader.cs",
+              "RelativeToolTip": "Assets\\VRContentLoader.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAADwv/IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:10:38.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Assets\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\ApiClient.cs",
+              "RelativeToolTip": "Assets\\ApiClient.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:09:12.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GLBLoader.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\GLBLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\GLBLoader.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\GLBLoader.cs",
+              "RelativeToolTip": "Assets\\GLBLoader.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADwv3EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T22:08:49.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteOrImageItem.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\NoteOrImageItem.cs",
+              "RelativeDocumentMoniker": "Assets\\NoteOrImageItem.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\NoteOrImageItem.cs",
+              "RelativeToolTip": "Assets\\NoteOrImageItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T21:32:25.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebXRImmersiveGrabInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\VRTemplateAssets\\Scripts\\WebXRImmersiveGrabInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\VRTemplateAssets\\Scripts\\WebXRImmersiveGrabInteractable.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Assets\\VRTemplateAssets\\Scripts\\WebXRImmersiveGrabInteractable.cs",
+              "RelativeToolTip": "Assets\\VRTemplateAssets\\Scripts\\WebXRImmersiveGrabInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:29:57.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebXRController.cs",
+              "DocumentMoniker": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.de-panther.webxr@fab01af98209\\Runtime\\Scripts\\WebXRController.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.de-panther.webxr@fab01af98209\\Runtime\\Scripts\\WebXRController.cs",
+              "ToolTip": "C:\\Users\\tasne\\Downloads\\PhysicsLab-main (1)\\PhysicsLab-main\\Library\\PackageCache\\com.de-panther.webxr@fab01af98209\\Runtime\\Scripts\\WebXRController.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.de-panther.webxr@fab01af98209\\Runtime\\Scripts\\WebXRController.cs",
+              "ViewState": "AQIAAIMCAAAAAAAAAADwv5cCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:22:12.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
